@@ -1,4 +1,5 @@
 releases/
+sources
 sources/
 *.pyc
 tmp/
